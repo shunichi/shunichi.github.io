@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="prose mx-auto">
+  <h1><img src="{{ page.extra.icon_url }}" class="w-8 h-8 inline-block my-0 mr-2"><span class="align-middle">{{ page.title }}</span></h1>
+  {{ page.content | safe }}
+</div>
+{% endblock content-%}

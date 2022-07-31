@@ -1,18 +1,20 @@
 +++
-title = "Drive File Locker - Google Workspace Add-on"
+title = "Drive File Locker"
+template = "product_page.html"
+
+[extra]
+icon_url = "/images/read-only-128.png"
+index_title = "Drive File Locker - Google Workspace Add-on"
 +++
 
-# Drive File Locker
-
-Google Drive Add-on.
-
-Make your documents Read-only.
+This is a Google Drive Add-on to make your documents Read-only.
 
 ## How to use it
 
-1. Select documents in your Google Drive.
-2. Click the add-on icon on the right side.
-3. Click "LOCK FILES" button.
+1. Install the add-on.
+2. Select documents in your Google Drive.
+3. Click the add-on icon on the right side.
+4. Click "LOCK FILES" button.
 
 ## Terms and conditions
 
