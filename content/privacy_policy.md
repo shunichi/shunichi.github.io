@@ -146,4 +146,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-- By visiting this page on our website: [https://github.com/shunichi/google-drive-lock-files-addon/issues](https://github.com/shunichi/google-drive-lock-files-addon/issues)
+- By visiting this page on our website: [https://logical-cats.com/](https://logical-cats.com/)

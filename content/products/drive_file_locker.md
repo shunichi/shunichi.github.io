@@ -8,7 +8,7 @@ Google Drive Add-on.
 
 Make your documents Read-only.
 
-## How to use
+## How to use it
 
 1. Select documents in your Google Drive.
 2. Click the add-on icon on the right side.
